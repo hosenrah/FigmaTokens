@@ -1,0 +1,24 @@
+{
+  "global": {},
+  "Sizing": {
+    "S": {
+      "value": "10",
+      "type": "sizing"
+    },
+    "M": {
+      "value": "30",
+      "type": "sizing"
+    },
+    "L": {
+      "value": "60",
+      "type": "sizing"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "Sizing"
+    ]
+  }
+}
